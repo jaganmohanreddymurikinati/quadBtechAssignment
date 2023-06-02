@@ -1,0 +1,29 @@
+.thumbnail {
+  height: 180px;
+  width: 220px;
+}
+
+.movie-item {
+  /* display: flex */
+  margin: 20px;
+  list-style-type: none;
+  margin-bottom: 30px;
+  background-color: white;
+}
+
+.heading {
+  color: black;
+  font-size: 18px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.summary-button {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  width: 150px;
+  border-radius: 10px;
+  border-width: 0px;
+}

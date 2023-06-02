@@ -1,0 +1,17 @@
+.bg-container {
+  margin: 30px;
+}
+.book-button {
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+  padding: 10px;
+  width: 120px;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.name{
+color:orange;
+font-weight:bold;
+font-size:30px;
+}

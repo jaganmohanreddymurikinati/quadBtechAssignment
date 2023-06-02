@@ -1,0 +1,33 @@
+.movies-container {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  /* margin:20px;
+  padding:20px; */
+}
+
+.movies-list-heading {
+  color: white;
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.movies-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0;
+}
+
+.title {
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+  color: orange;
+  text-align: center;
+}
+
+.movies-container {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 0;
+}
